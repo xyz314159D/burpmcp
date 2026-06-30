@@ -1,0 +1,13 @@
+Uuid: 9952290f04ed4f628e624d0aa9dccebc 
+ExtensionType: 1
+Name: BurpMcp
+RepoName: BurpMcp
+ScreenVersion: 2.0.0
+SerialVersion: 10
+MinPlatformVersion: 26
+ProOnly: False
+Author: Mauricio Duarte
+ShortDescription: AI-assisted Burp Suite workflows for bug bounty and web pentesting over MCP.
+EntryPoint: BurpMcp-all.jar
+BuildCommand: ./gradlew embedProxyJar
+SupportedProducts: Pro, Community
